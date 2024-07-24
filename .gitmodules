@@ -1,0 +1,6 @@
+[submodule "Recipe-App"]
+	path = Recipe-App
+	url = https://github.com/Nibalab/Recipe-App.git
+[submodule "recipe-app-backend"]
+	path = recipe-app-backend
+	url = https://github.com/Nibalab/recipe-app-backend.git
